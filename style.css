@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Jacques+Francois+Shadow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Inria+Sans:ital,wght@0,300;1,300&family=Jacques+Francois+Shadow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Dancing+Script:wght@400..700&family=Inria+Sans:ital,wght@0,300;1,300&family=Jacques+Francois+Shadow&family=Playwrite+CU:wght@100..400&display=swap');
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}body{
+    background-color: rgb(153, 153, 153);
+    background-image: url(https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fwww.geaves.com%2Fcharcoal-grey&psig=AOvVaw1MKzV2VujNuSNXdIzkbhza&ust=1726860045108000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCGio7dz4gDFQAAAAAdAAAAABAE);
+}header{
+    display: flex;
+    font-size: 22px;
+    gap: 450px;
+}main{
+    margin-top: 200px;
+    margin-left: 500px;
+}h1{
+    font-family: "Cinzel", serif;
+    font-size: 60px;
+    padding-left: 60px;
+}h4{
+    padding-left: 700px;
+    padding-top: 80px;
+}#s1{
+    font-family: segoe print;
+}#s{
+    font-family: "Dancing Script", cursive;
+}
